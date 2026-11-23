@@ -1,0 +1,2 @@
+org.chgthink.common.json.config.JacksonConfig
+org.chgthink.common.json.config.JsonEnhancementConfig

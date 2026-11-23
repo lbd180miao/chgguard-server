@@ -1,0 +1,4 @@
+org.chgthink.common.web.config.CaptchaConfig
+org.chgthink.common.web.config.FilterConfig
+org.chgthink.common.web.config.I18nConfig
+org.chgthink.common.web.config.ResourcesConfig

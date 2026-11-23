@@ -1,0 +1,5 @@
+org.chgthink.common.redis.config.RedisConfig
+org.chgthink.common.redis.config.CacheConfig
+org.chgthink.common.redis.config.IdempotentConfig
+org.chgthink.common.redis.config.RateLimiterConfig
+org.chgthink.common.redis.config.Lock4jConfig

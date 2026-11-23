@@ -1,0 +1,3 @@
+org.chgthink.common.encrypt.config.EncryptorAutoConfiguration
+org.chgthink.common.encrypt.config.ApiDecryptAutoConfiguration
+

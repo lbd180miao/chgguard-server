@@ -1,0 +1,3 @@
+org.chgthink.common.push.config.MessageAutoConfiguration
+org.chgthink.common.push.config.MessageSseConfiguration
+org.chgthink.common.push.config.MessageWebSocketConfiguration
